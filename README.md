@@ -1,11 +1,11 @@
 # niverData
 ## o que é :monocle_face:?
-Um mini-projeto feito com intuíto apenas para estudos.
+Um mini-projeto feito com intuito apenas para estudos.
 
-Ele pede sua data de nascimentp e automaticamente pegua sua data atual,
+Ele pede sua data de nascimento e automaticamente pega a data atual do seu sistema,
 calculando, ele te retorna quantidade de dia ou mês para seu aniversário.
 
-totamente responsivo e não utliza javascript.
+totamente responsivo e não utiliza javascript.
 caso queira acessar o site [:paperclip:**clique aqui!**](https://aniver-data.vercel.app/api/index.php)
 
 ## Linguagens :computer:
