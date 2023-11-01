@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AniverData</title>
-    <link rel="stylesheet" href="style2.css">
+    <link rel="stylesheet" href="../tyle2.css">
     <meta name="description" content="Site que calcula quando tempo falta para seu anivesário.">
     <meta name="author" content="Jotapeh">
 </head>
